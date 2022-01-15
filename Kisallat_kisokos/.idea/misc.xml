@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.27708333333333335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/layout_csincsilla.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/layout_csincsilla_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_csincsilla_altalanos_tudnivalok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_csincsilla_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_csincsilla_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_csincsilla_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_csincsilla_taplalas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_degu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_degu_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_degu_altalanos_tudnivalok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_degu_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_degu_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_degu_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_degu_taplalas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_eger.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/layout_eger_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_eger_altalanos_tudnivalok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_eger_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_eger_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_eger_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_eger_taplalas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_fomenu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_horcsog.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_horcsog_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_horcsog_altalanos_tudnivalok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_horcsog_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_horcsog_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_horcsog_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_horcsog_taplalas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_mokus.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_mokus_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_mokus_altalanos_tudnivalok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_mokus_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_mokus_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_mokus_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_mokus_taplalas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_nyul.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_nyul_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_nyul_altalanos_tudnivalok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_nyul_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_nyul_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_nyul_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_nyul_taplalas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_patkany.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_patkany_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_patkany_altalanos_tudnivalok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_patkany_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_patkany_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_patkany_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_patkany_taplalas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_tengeri_malac.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_tengeri_malac_ajanlott_allatorvosok.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_tengeri_malac_altalanos_tudnivalok.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/layout_tengeri_malac_betegsegek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_tengeri_malac_gondozas.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_tengeri_malac_mentoszervezetek.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_tengeri_malac_taplalas.xml" value="0.26197916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
